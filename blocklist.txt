@@ -22,9 +22,11 @@
 /aspor\.(com|org|net)/
 /atv\.(com|org|net)/
 /avazturk\.(com|org|net)/
+/aydinhedef\.(com|org|net)/
 /aydinlik\.(com|org|net)/
 /aydinpost\.(com|org|net)/
 /aykiri\.(com|org|net)/
+/basakgazetesi\.(com|org|net)/
 /basinhayati\.(com|org|net)/
 /batmancagdas\.(com|org|net)/
 /bbnhaber\.(com|org|net)/
@@ -166,6 +168,7 @@
 /id-card\.(info|com|org|net)/
 /ilkha\.(com|org|net)/
 /ilkkursun\.(site|com|org|net)/
+/imaret\.(com|org|net)/
 /indyturk\.(com|org|net)/
 /internethaber\.(com|org|net)/
 /jinnews1\.(com|org|net)/
@@ -226,6 +229,7 @@
 /memleket\.(com|org|net)/
 /memurlar\.(com|org|net)/
 /mesajtv\.(com|org|net)/
+/meydan\.(com|org|net)/
 /milatgazetesi\.(com|org|net)/
 /milligazete\.(com|org|net)/
 /milliyet\.(com|org|net)/
@@ -288,6 +292,7 @@
 /sanalbasin\.(com|org|net)/
 /scroll\.(com|org|net)/
 /sendika63\.(com|org|net)/
+/seskocaeli\.(com|org|net)/
 /seslimakale\.(com|org|net)/
 /showtvnet\.(com|org|net)/
 /siyahgazete\.(com|org|net)/
