@@ -7,6 +7,8 @@
 /ahaber\.(com|org|net)/
 /ahvalnews\.(com|org|net)/
 /ajansspor\.(com|org|net)/
+/ajansurfa\.(com|org|net)/
+/akdenizgercek\.(com|org|net)/
 /akittv\.(com|org|net)/
 /aksam\.(com|org|net)/
 /aktifhaber\.(com|org|net)/
@@ -76,14 +78,17 @@
 /doganpresse\.(com|org|net)/
 /dogruhaber\.(com|org|net)/
 /dogrulukpayi\.(com|org|net)/
+/dokuzeylul\.(com|org|net)/
 /dokuzsutun\.(com|org|net)/
 /dorduncukuvvetmedya\.(com|org|net)/
 /dreamturk\.(com|org|net)/
 /dreamtv\.(com|org|net)/
 /dsmart\.(com|org|net)/
 /duhuliye\.(com|org|net)/
+/dunyabulteni\.(com|org|net)/
 /dunyagazetesi\.(com|org|net)/
 /dunya\.(com|org|net)/
+/durusgazetesi\.(com|org|net)/
 /duyarlisanatcilar\.(com|org|net)/
 /duyurugazetesi\.(com|org|net)/
 /duzcepusula\.(com|org|net)/
@@ -95,6 +100,7 @@
 /elle\.(com|org|net)/
 /emlak365\.(com|org|net)/
 /ensonhaber\.(com|org|net)/
+/etha15\.(com|org|net)/
 /euronews\.(com|org|net)/
 /eurovizyon\.(com|org|net)/
 /f5haber\.(com|org|net)/
@@ -117,8 +123,10 @@
 /gazetefersude\.(com|org|net)/
 /gazetegercek\.(com|org|net)/
 /gazeteguncel\.(com|org|net)/
+/gazeteistanbul\.(com|org|net)/
 /gazetekarinca\.(com|org|net)/
 /gazetekeyfi\.(com|org|net)/
+/gazetekritik\.(com|org|net)/
 /gazetemag\.(com|org|net)/
 /gazetemanifesto\.(com|org|net)/
 /gazeteoku\.(com|org|net)/
@@ -134,7 +142,11 @@
 /gercekalanya\.(com|org|net)/
 /gercekgundem\.(com|org|net)/
 /gercekhaberci\.(com|org|net)/
+/gercekizmir\.(com|org|net)/
+/geyvemedya\.(com|org|net)/
+/gidahatti\.(com|org|net)/
 /gozlemgazetesi\.(com|org|net)/
+/grihat\.(com|org|net)/
 /guldum\.(com|org|net)/
 /gunboyugazetesi\.(com|org|net)/
 /gundemebakis\.(com|org|net)/
@@ -158,11 +170,13 @@
 /haberaj\.(com|org|net)/
 /haberankara\.(com|org|net)/
 /haberarsiviyiz\.(com|org|net)/
+/haberasi\.(com|org|net)/
 /habera\.(com|org|net)/
 /haberbaz\.(com|org|net)/
 /haberbook\.(com|org|net)/
 /haberchannel\.(com|org|net)/
 /haberciler\.(com|org|net)/
+/habercim19\.(com|org|net)/
 /haberdar\.(com|org|net)/
 /haberevet\.(com|org|net)/
 /haberform\.(com|org|net)/
@@ -170,10 +184,12 @@
 /habergazetesi\.(com|org|net)/
 /habergazete\.(com|org|net)/
 /haberglobal\.(com|org|net)/
+/haberimizvar\.(com|org|net)/
 /haberimport\.(com|org|net)/
 /haberinyeri\.(com|org|net)/
 /haberkibris\.(com|org|net)/
 /haberkita\.(com|org|net)/
+/haberlermersin\.(com|org|net)/
 /haberler\.(com|org|net)/
 /habermatik\.(com|org|net)/
 /habermolasi\.(com|org|net)/
@@ -188,6 +204,7 @@
 /habervakti\.(com|org|net)/
 /haberver\.(me|com|org|net)/
 /habervitrini\.(com|org|net)/
+/haberx\.(com|org|net)/
 /haberyurdum\.(com|org|net)/
 /haber\.(com|org|net)/
 /halktv\.(com|org|net)/
@@ -207,6 +224,7 @@
 /ilkkursun\.(site|com|org|net)/
 /imaret\.(com|org|net)/
 /indyturk\.(com|org|net)/
+/intell4\.(com|org|net)/
 /internethaber\.(com|org|net)/
 /istanbulgazetesi\.(com|org|net)/
 /jinnews1\.(com|org|net)/
@@ -237,6 +255,7 @@
 /kocaelidenge\.(com|org|net)/
 /kocaelifikir\.(com|org|net)/
 /kocaeligazetesi\.(com|org|net)/
+/kocaelitv\.(com|org|net)/
 /kontv\.(com|org|net)/
 /konyaninnabzi\.(web|com|org|net)/
 /korkusuz\.(com|org|net)/
@@ -256,6 +275,7 @@
 /mahalligundem\.(com|org|net)/
 /malatyaguncel\.(com|org|net)/
 /malatyasonsoz\.(com|org|net)/
+/manisahaberleri\.(com|org|net)/
 /mansetx\.(com|org|net)/
 /marketingturkiye\.(com|org|net)/
 /mavikocaeli\.(com|org|net)/
@@ -264,6 +284,7 @@
 /medimagazin\.(com|org|net)/
 /medya73\.(com|org|net)/
 /medyaajans\.(com|org|net)/
+/medyabar\.(com|org|net)/
 /medyadetay\.(com|org|net)/
 /medyaege\.(com|org|net)/
 /medyafaresi\.(com|org|net)/
@@ -274,6 +295,7 @@
 /medyaradar\.(com|org|net)/
 /medyascope\.(com|org|net)/
 /medyatava\.(com|org|net)/
+/medyayazar\.(com|org|net)/
 /meltemtv\.(com|org|net)/
 /memleket\.(com|org|net)/
 /memurlar\.(com|org|net)/
@@ -297,6 +319,7 @@
 /nethaber\.(com|org|net)/
 /newstr\.(com|org|net)/
 /ngazete\.(com|org|net)/
+/ntvhava\.(com|org|net)/
 /ntvmsnbc\.(com|org|net)/
 /ntvspor\.(com|org|net)/
 /ntv\.(com|org|net)/
@@ -328,8 +351,10 @@
 /pamukkalehaber\.(com|org|net)/
 /paramedya\.(com|org|net)/
 /patronlardunyasi\.(com|org|net)/
+/pictame\.(com|org|net)/
 /picuki\.(com|org|net)/
 /pinterest\.(com|org|net)/
+/piwox\.(com|org|net)/
 /polis\.(com|org|net)/
 /politikyol\.(com|org|net)/
 /posta\.(com|org|net)/
@@ -343,6 +368,7 @@
 /ranini\.(com|org|net)/
 /rotahaber\.(com|org|net)/
 /rthaber\.(com|org|net)/
+/rupelanu\.(com|org|net)/
 /sabah\.(com|org|net)/
 /sacitaslan\.(com|org|net)/
 /samanyoluhaber\.(com|org|net)/
@@ -460,6 +486,7 @@
 /yenigaste\.(com|org|net)/
 /yenigungazetesi\.(com|org|net)/
 /yenihaberden\.(com|org|net)/
+/yenikocaeli\.(com|org|net)/
 /yenimeram\.(com|org|net)/
 /yenimesaj\.(com|org|net)/
 /yenisafak\.(com|org|net)/
