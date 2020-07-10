@@ -1,3 +1,4 @@
+/61saat\.(com|org|net)/
 /7x24kocaeli\.(com|org|net)/
 /aawsat\.(com|org|net)/
 /abcgazetesi\.(com|org|net)/
@@ -82,6 +83,7 @@
 /doganpresse\.(com|org|net)/
 /dogruhaber\.(com|org|net)/
 /dogrulukpayi\.(com|org|net)/
+/dogus\.(nl|com|org|net)/
 /dokuzeylul\.(com|org|net)/
 /dokuzsutun\.(com|org|net)/
 /dorduncukuvvetmedya\.(com|org|net)/
@@ -237,6 +239,7 @@
 /indyturk\.(com|org|net)/
 /intell4\.(com|org|net)/
 /internethaber\.(com|org|net)/
+/ipekyolugazetesi\.(com|org|net)/
 /istanbulgazetesi\.(com|org|net)/
 /iyigunler\.(com|org|net)/
 /jinnews1\.(com|org|net)/
@@ -424,6 +427,7 @@
 /minval\.(com|org|net)/
 /muglayenigun\.(com|org|net)/
 /muhabir\.(com|org|net)/
+/mygazete\.(com|org|net)/
 /mynet\.(com|org|net)/
 /nazlim\.(com|org|net)/
 /neoldu\.(com|org|net)/
@@ -454,6 +458,7 @@
 /odatv9\.(com|org|net)/
 /odatv\.(com|org|net)/
 /olaymedya\.(com|org|net)/
+/olayrize\.(com|org|net)/
 /olay\.(com|org|net)/
 /oncugenclik\.(com|org|net)/
 /onedio\.(com|org|net)/
