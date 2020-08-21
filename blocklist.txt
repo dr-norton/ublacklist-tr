@@ -8,6 +8,7 @@
 /abdpost/
 /acunn/
 /adahaber54.com/
+/adatavir.com/
 /afrikagazetesi/
 /ahaber/
 /ahvalnews/
@@ -28,6 +29,7 @@
 /altin.us/
 /amerikaliturk.com/
 /amerikaninsesi/
+/anadolugazetesi.com/
 /anadolutelgraf.com/
 /anayurtgazetesi/
 /anews/
@@ -45,7 +47,9 @@
 /avazturk/
 /avcilarhabermerkezi.com/
 /ayakligazete.com/
+/aydindenge.com.tr/
 /aydinhedef/
+/aydinkulis.com/
 /aydinlik/
 /aydinpost/
 /aykiri/
@@ -72,6 +76,7 @@
 /bimagazin.com/
 /birgun.net/
 /birliktenkuvvetdogar/
+/bizimsakarya.com.tr/
 /bizimyaka.com/
 /bjk/
 /blackorwhitedergi.com/
@@ -112,6 +117,7 @@
 /degisimmedya.com/
 /dehabertr.blogspot.com/
 /demokrathaber.org/
+/demokratkocaeli.com/
 /denizligazetesi.com/
 /denizliportal/
 /digiturk/
@@ -352,6 +358,7 @@
 /istiklal.com.tr/
 /ittifakgazetesi.com/
 /iyigunler/
+/izgazete.net/
 /izmiredair.com/
 /izmirgastrofest.com/
 /izmirgazetesi.com.tr/
@@ -385,14 +392,18 @@
 /kartal24.com/
 /kasimpasa.org/
 /kayserigundem/
+/kayserim.net/
+/kayseritempo.org/
 /kentgazetesi/
 /kenthaber/
 /kenttv/
 /kibrispost.com/
+/kibrispostasi.com/
 /kocaelibarisgazetesi/
 /kocaelidenge/
 /kocaelifikir/
 /kocaeligazetesi/
+/kocaelikoz.com/
 /kocaelininrehberi.com/
 /kocaelitv/
 /kontv/
@@ -407,6 +418,7 @@
 /krttv/
 /kulliyeliler.com.tr/
 /kuzeyekspres.com.tr/
+/leblebi.tv/
 /leportale/
 /listelist/
 /lodoshaber.com/
@@ -447,6 +459,7 @@
 /medyaplay/
 /medyapress.com.tr/
 /medyaradar/
+/medyarota.com/
 /medyascope/
 /medyatava/
 /medyatilkisi.com/
@@ -511,6 +524,7 @@
 /optimushaber.com/
 /ortadogugazetesi/
 /ozgurhabergazetesi/
+/ozgurkocaeli.com.tr/
 /pamukkalehaber/
 /paraanaliz.com/
 /paralimani.com/
@@ -534,12 +548,14 @@
 /puhutv/
 /pusulagazetesi.com.tr/
 /pusulaswiss/
+/qha.com.tr/
 /radikal.com.tr/
 /radyomega/
 /ranini/
 /rizedeyiz.com/
 /rotahaber/
 /rthaber/
+/rudaw.net/
 /rupelanu/
 /sabah.com.tr/
 /sabahhaberi.com/
@@ -550,6 +566,7 @@
 /samsunsonhaber.com/
 /sanalbasin/
 /scroll.com.tr/
+/sde.org.tr/
 /sendika63/
 /sesgazetesi/
 /seskocaeli/
@@ -686,6 +703,7 @@
 /yeniasya/
 /yenicaggazetesi.com.tr/
 /yenidonem/
+/yeniduzen.com/
 /yenierdekgazetesi/
 /yenigaste/
 /yenigungazetesi/
@@ -696,6 +714,7 @@
 /yenimeram/
 /yenimesaj/
 /yenisafak.com/
+/yenisakarya.com/
 /yenisayi/
 /yenisehiryorem/
 /yenisokegazetesi.com/
