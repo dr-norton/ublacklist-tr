@@ -133,6 +133,7 @@
 /corumhakimiyet/
 /cukurovaexpres.com/
 /cukurovamanset.com/
+/cukute.com/
 /cumhuriyet.com.tr/
 /davamhaber.com/
 /degisimmedya.com/
@@ -180,6 +181,7 @@
 /ege.net/
 /egeninsesi.com/
 /egepostasi.com/
+/egesaati.com/
 /egetelgraf/
 /egeyebakis/
 /egeyonhaber.com/
@@ -199,6 +201,7 @@
 /ensontv.com/
 /ercdn.net/
 /ercisajans.com/
+/erdeundleben.com/
 /ertehaber.com/
 /esgazete.com/
 /eskisehirekspres.net/
@@ -336,6 +339,7 @@
 /haberhisse.com/
 /haberimistanbul.com/
 /haberimizvar/
+/haberimo.com/
 /haberimport/
 /haberinadresi.com/
 /haberindogrusu.com/
@@ -382,6 +386,7 @@
 /haberzamani.com/
 /haberzamani.net/
 /halk54.com/
+/halkinhabercisi.com/
 /halktv/
 /halkweb/
 /hatayinternettv.com/
@@ -481,6 +486,7 @@
 /kocaelikoz.com/
 /kocaelininrehberi.com/
 /kocaelitv/
+/kocaelizirve.com/
 /konkret.az/
 /kontv/
 /konyahaber42.com/
@@ -581,6 +587,7 @@
 /mygazete/
 /mymemur.com.tr/
 /mynet.com/
+/nationalturk.com/
 /nazlim/
 /nedenben.com/
 /nedimtaktakkimdir.com/
@@ -590,6 +597,7 @@
 /netgazete/
 /nethaber/
 /nethaberci/
+/netyorum.net/
 /newsbursa.com/
 /newstr/
 /ngazete/
@@ -813,6 +821,7 @@
 /vivaldimagazin.com/
 /vodafone/
 /vvv-mynet-dotcom.gateway.web.tr/
+/webhaberci.net/
 /webhakim.com/
 /webstagramsite.com/
 /webtekno/
@@ -828,6 +837,7 @@
 /yazete/
 /yekvucut/
 /yemektarifleri.fun/
+/yeniadana.net/
 /yeniakit.com.tr/
 /yenialanya/
 /yeniasir.com.tr/
