@@ -127,6 +127,7 @@
 /canlitvizlemeli/
 /castmagazin.com/
 /cayyolu/
+/cekmekoyevdenevenakliyat.org/
 /cemtv/
 /cnnturk/
 /corluhaber/
@@ -425,6 +426,7 @@
 /internetmanset.com/
 /ipekyolugazetesi/
 /istanbulgazetesi/
+/istanbulseo.net/
 /istanbulses.com/
 /istiklal.com.tr/
 /ittifakgazetesi.com/
@@ -820,12 +822,14 @@
 /vipturkeydergisi/
 /vivaldimagazin.com/
 /vodafone/
+/vvikipedla.com/
 /vvv-mynet-dotcom.gateway.web.tr/
 /webhaberci.net/
 /webhakim.com/
 /webstagramsite.com/
 /webtekno/
 /wiltones.site/
+/wjmirae.net/
 /wopita.com/
 /yabantv/
 /yakinmarkaj.net/
