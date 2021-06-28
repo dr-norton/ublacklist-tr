@@ -191,7 +191,7 @@
 /ekoturk/
 /ekovitrin.com/
 /el-aziz/
-/elele/
+/elele.com.tr/
 /elle.com.tr/
 /elmadizayn.com/
 /emlak365/
@@ -322,10 +322,12 @@
 /haberciler/
 /habercim19/
 /habercininyeri/
+/haberciniz.biz/
 /haberdairesi.com/
 /haberdar/
 /haberdetay.net/
 /haberdevir.com/
+/haberentel.com/
 /habererk/
 /haberevet/
 /haberexpres.com.tr/
@@ -366,6 +368,7 @@
 /haberofis.com/
 /haberofisi.com.tr/
 /haberolduk.com/
+/haberport.com/
 /haberra/
 /habersafir.com/
 /haberseninle/
@@ -379,6 +382,7 @@
 /haberturk34.com/
 /habervakti/
 /habervaktim/
+/habervegundem.com/
 /haberver/
 /habervitrini/
 /haberx/
@@ -450,6 +454,7 @@
 /kamuajans/
 /kamubulteni/
 /kamudanhaber/
+/kamuilan365.com/
 /kamuilanlari/
 /kamukariyer.org/
 /kamumanset.com/
@@ -472,6 +477,7 @@
 /karpuz.co.uk/
 /karsmanset.com/
 /kartal24.com/
+/kartalbakisi.com/
 /kasimpasa.org/
 /kayserigundem/
 /kayserim.net/
@@ -509,6 +515,7 @@
 /leportale/
 /lidergazetesi.com/
 /liderhaber.org/
+/limkhub.com/
 /listelist/
 /lodoshaber.com/
 /londragundem.com/
@@ -533,6 +540,7 @@
 /mansetturkiyem.com.tr/
 /mansetx/
 /marasmanset.com/
+/mardinlife.com/
 /marketingturkiye/
 /maviilepembe.com/
 /mavikocaeli/
@@ -586,6 +594,7 @@
 /msn.com/
 /muglayenigun/
 /muhabir.com.tr/
+/muhalifyazar.com/
 /mygazete/
 /mymemur.com.tr/
 /mynet.com/
@@ -687,7 +696,9 @@
 /seslimakale/
 /sgkrehberi.com/
 /sha.com.tr/
+/showtv.com.tr/
 /showtvnet/
+/sitecenneti.com/
 /siyahgazete/
 /siyasetcafe/
 /snobmagazin.com/
@@ -783,6 +794,7 @@
 /turizmnews.com/
 /turkgun/
 /turkishdailynews.net/
+/turkishnyradio.com/
 /turkiyeajansi.com/
 /turkiyebulteni.com/
 /turkiyegazetesi/
@@ -801,6 +813,7 @@
 /tvgundemi.com/
 /tvnet/
 /tvplus/
+/tvyayinakisi.com/
 /tweet-per-sec.com/
 /tweet247.net/
 /ucankus/
