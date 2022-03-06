@@ -1,3 +1,4 @@
+/1001dizi.net/
 /16haber.com/
 /61medya.net/
 /61saat/
@@ -18,6 +19,7 @@
 /ajansspor/
 /ajansurfa/
 /akdenizgercek/
+/akilligundem.com/
 /akittv/
 /aksam.com.tr/
 /aktifhaber/
@@ -63,6 +65,7 @@
 /bagimsizkocaeli.com.tr/
 /bakirkoygazetesi.com/
 /bakupost.az/
+/balkangunlugu.com.tr/
 /bandalogy.com/
 /basakgazetesi/
 /basinhayati/
@@ -132,6 +135,7 @@
 /cnnturk/
 /corluhaber/
 /corumhakimiyet/
+/covidtestdordrecht.nl/
 /cukurovaexpres.com/
 /cukurovamanset.com/
 /cukute.com/
@@ -154,11 +158,14 @@
 /dizicenter.net/
 /dizihaberi.tv/
 /dizisiyenibolum//
+/diziyou.com/
+/dk-priozerskoe.ru/
 /dmags/
 /dmax/
 /doganpresse/
 /dogruhaber/
 /dogrulukpayi/
+/dogubayazithalkinsesi.com/
 /dogurehberi.com/
 /dogus/
 /dokuz8haber.net/
@@ -279,6 +286,7 @@
 /guldum/
 /gunboyugazetesi/
 /gunceldiziprogram.com/
+/guncelmp3indir.com/
 /gundemebakis/
 /gundemotuzbes/
 /gunes/
@@ -348,6 +356,7 @@
 /haberindogrusu.com/
 /haberintakasi.com/
 /haberinyeri/
+/haberizlenim.com/
 /haberkervani.com/
 /haberkibris/
 /haberkita/
@@ -475,6 +484,7 @@
 /karaman.org/
 /karar.com/
 /karpuz.co.uk/
+/karriere-mercedes-hess.de/
 /karsmanset.com/
 /kartal24.com/
 /kartalbakisi.com/
@@ -591,9 +601,13 @@
 /modahayatonda.com/
 /moj-grad.com/
 /mortilki.com/
+/mp3indirdur.mobi/
+/mp3kutu.com/
+/mp3semti.com/
 /msn.com/
 /muglayenigun/
 /muhabir.com.tr/
+/muhalif.com.tr/
 /muhalifyazar.com/
 /mygazete/
 /mymemur.com.tr/
@@ -603,6 +617,7 @@
 /nedenben.com/
 /nedimtaktakkimdir.com/
 /nehaber24.com/
+/nemlak.com/
 /neoldu/
 /netgaste.com/
 /netgazete/
@@ -638,6 +653,7 @@
 /onlinehaberci/
 /onmedya/
 /optimushaber.com/
+/or6.net/
 /ortadogugazetesi/
 /ozgurhaberci.com/
 /ozgurhabergazetesi/
@@ -686,6 +702,8 @@
 /samsungazetesi/
 /samsunsonhaber.com/
 /sanalbasin/
+/sariyerposta.com/
+/schinkel-kirche-schaepe.de/
 /scroll.com.tr/
 /sde.org.tr/
 /sehriistanbul.com.tr/
@@ -698,6 +716,7 @@
 /sha.com.tr/
 /showtv.com.tr/
 /showtvnet/
+/sigortacigazetesi.com.tr/
 /sitecenneti.com/
 /siyahgazete/
 /siyasetcafe/
@@ -742,6 +761,7 @@
 /talasexpresshaber.com/
 /tamgaturk.com/
 /tarsuskulis.com/
+/teatrslovo.ru/
 /tekdeeps.com/
 /tekmagazin/
 /teknogaste.com/
@@ -749,6 +769,7 @@
 /teknoturkish.com/
 /tele1/
 /televizyongazetesi/
+/televole.com/
 /teneec.com/
 /tercumangazetesi/
 /teve2/
@@ -768,6 +789,7 @@
 /toplumsal/
 /tourismtoday.net/
 /tr724/
+/trdiziizle3.com/
 /trendsmap/
 /trmedya.net/
 /trpost.net/
@@ -837,6 +859,7 @@
 /vodafone/
 /vvikipedla.com/
 /vvv-mynet-dotcom.gateway.web.tr/
+/webcanavari.net/
 /webhaberci.net/
 /webhakim.com/
 /webstagramsite.com/
@@ -844,6 +867,7 @@
 /wiltones.site/
 /wjmirae.net/
 /wopita.com/
+/yabancidizitv.net/
 /yabantv/
 /yakinmarkaj.net/
 /yakintakipgazetesi.com/
@@ -868,6 +892,7 @@
 /yenigungazetesi/
 /yenihaberden/
 /yenihavadis.com/
+/yeniistiklal.com/
 /yenikocaeli/
 /yenikonya.com/
 /yenimeram/
