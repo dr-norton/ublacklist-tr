@@ -72,6 +72,7 @@
 /baskinhaber.com/
 /batmancagdas/
 /bbnhaber/
+/bedavainternet.com.tr/
 /beinsports/
 /benguturk/
 /beyazgazete/
@@ -133,6 +134,7 @@
 /cekmekoyevdenevenakliyat.org/
 /cemtv/
 /cnnturk/
+/cookkomik.com/
 /corluhaber/
 /corumhakimiyet/
 /covidtestdordrecht.nl/
@@ -173,6 +175,7 @@
 /dokuzlama.com/
 /dokuzsutun/
 /dorduncukuvvetmedya/
+/draug.net/
 /dreamturk/
 /dreamtv/
 /dsmart/
@@ -227,6 +230,7 @@
 /flipboard.com/
 /focushaber/
 /forlumineontor.com/
+/forumhayat.com/
 /fotomac/
 /fotospor.com/
 /fox.com.tr/
@@ -396,6 +400,7 @@
 /habervitrini/
 /haberx/
 /haberyildizi.com/
+/haberyozgat.com/
 /haberyurdum/
 /haberzamani.com/
 /haberzamani.net/
@@ -431,6 +436,7 @@
 /imgund.com/
 /indyturk/
 /inegolonline.com/
+/inkgsj.com/
 /instastalker2/
 /intell4/
 /internetgundem.com/
@@ -518,6 +524,7 @@
 /kronos/
 /krttv/
 /kulliyeliler.com.tr/
+/kurabaz.com/
 /kureselhaberci.com/
 /kuzeyekspres.com.tr/
 /laptrinhx.com/
@@ -616,6 +623,7 @@
 /nazlim/
 /nedenben.com/
 /nedimtaktakkimdir.com/
+/nefisyemektarifleri.com/
 /nehaber24.com/
 /nemlak.com/
 /neoldu/
@@ -691,7 +699,9 @@
 /rizedeyiz.com/
 /rotahaber/
 /rthaber/
+/rubsettlebegin.top/
 /rudaw.net/
+/rujmuj.com/
 /rupelanu/
 /sabah.com.tr/
 /sabahhaberi.com/
@@ -714,6 +724,16 @@
 /seslimakale/
 /sgkrehberi.com/
 /sha.com.tr/
+/shoptr.dailyford.net/
+/shoptr1.dailyford.net/
+/shoptr2.dailyford.net/
+/shoptr3.dailyford.net/
+/shoptr4.dailyford.net/
+/shoptr5.dailyford.net/
+/shoptr6.dailyford.net/
+/shoptr7.dailyford.net/
+/shoptr8.dailyford.net/
+/shoptr9.dailyford.net/
 /showtv.com.tr/
 /showtvnet/
 /sigortacigazetesi.com.tr/
@@ -729,6 +749,7 @@
 /sondakika.com/
 /sondakika02.com/
 /sondakika23/
+/sondakika54.com/
 /sondakikahaberleri/
 /sondakikaizmir.com/
 /sondakikaturk/
@@ -759,6 +780,7 @@
 /takagazete/
 /takvim.com.tr/
 /talasexpresshaber.com/
+/talebemektebi.com/
 /tamgaturk.com/
 /tarsuskulis.com/
 /teatrslovo.ru/
@@ -847,6 +869,7 @@
 /ulusal24/
 /ulusalturk/
 /umke/
+/up2study.de/
 /uzmanyorumlari.com/
 /vanhavadis.com/
 /vasat.com/
@@ -893,6 +916,7 @@
 /yenihaberden/
 /yenihavadis.com/
 /yeniistiklal.com/
+/yenijournal.com/
 /yenikocaeli/
 /yenikonya.com/
 /yenimeram/
@@ -907,6 +931,7 @@
 /yeniyasamgazetesi1/
 /yerelguc/
 /yerelingundemi/
+/yesilbursa.net/
 /yirmidort/
 /yorumguncel/
 /yorumla.net/
