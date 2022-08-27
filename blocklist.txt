@@ -58,6 +58,7 @@
 /aydinkulis.com/
 /aydinlik/
 /aydinpost/
+/ayehenmill.live/
 /aykiri/
 /azonceoldu.com/
 /azshow.info/
@@ -276,8 +277,10 @@
 /gazikent27/
 /gecce/
 /gelecekgundem/
+/gemlikbasin.net/
 /gercekalanya/
 /gercekgundem/
+/gercekhaber.net/
 /gercekhaberci/
 /gercekizmir/
 /gercekmuhabir.com/
@@ -285,6 +288,7 @@
 /gidahatti/
 /glbnews.com/
 /gozlemgazetesi/
+/gpec-bd.org/
 /gramho.com/
 /grihat/
 /guldum/
@@ -415,6 +419,7 @@
 /hbrcaldiran.com/
 /hbrma.com/
 /headtopics/
+/hedefhalk.com/
 /hellohayat.com/
 /heryerhaber.com/
 /hisleraynasi.net/
@@ -423,6 +428,7 @@
 /hurhaber/
 /hurriyet.com.tr/
 /hurriyetdailynews/
+/hvekorat.com/
 /hyetert/
 /ibrala/
 /id-card/
@@ -511,6 +517,7 @@
 /kocaelininrehberi.com/
 /kocaelitv/
 /kocaelizirve.com/
+/kompas29.net/
 /konkret.az/
 /kontv/
 /konyahaber42.com/
@@ -686,6 +693,7 @@
 /powerapp/
 /pressreader/
 /pressturk/
+/product-worldwide.com/
 /publicinsta.com/
 /puhutv/
 /pusulagazetesi.com.tr/
@@ -846,6 +854,7 @@
 /turkiyehaberi.com/
 /turkiyehabermerkezi/
 /turktime/
+/turkuazgazetesi.net/
 /turkulus.com/
 /tv100/
 /tv360/
@@ -853,6 +862,7 @@
 /tv8/
 /tv8bucuk/
 /tva.com.tr/
+/tvdunyasii.com/
 /tvem/
 /tvgundemi.com/
 /tvnet/
@@ -882,6 +892,7 @@
 /vodafone/
 /vvikipedla.com/
 /vvv-mynet-dotcom.gateway.web.tr/
+/washwasha.org/
 /webcanavari.net/
 /webhaberci.net/
 /webhakim.com/
