@@ -13,6 +13,7 @@
 /adana24.com/
 /adatavir.com/
 /afrikagazetesi\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/ahaber.com.tr/
 /ahaber\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /ahvalnews\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /ajanskamu.net\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
@@ -95,6 +96,7 @@
 /bimagazin.com/
 /birgun.net/
 /birliktenkuvvetdogar\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/birsenaltuntas.com/
 /bizimsakarya.com.tr/
 /bizimyaka.com/
 /bizimyol.info/
@@ -134,6 +136,7 @@
 /cayyolu\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /cekmekoyevdenevenakliyat.org/
 /cemtv\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/cnnturk.com/
 /cnnturk\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /cookkomik.com/
 /corluhaber\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
@@ -270,6 +273,7 @@
 /gazeterize\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /gazeteruzgarli\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /gazetesok\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/gazetevatan.com/
 /gazetevatan\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /gazeteyenigun.com.tr/
 /gazetezebra.com.tr/
@@ -315,9 +319,9 @@
 /haber123\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /haber16.com/
 /haber24.com/
-/haber3\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /haber32\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /haber365\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/haber3\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /haber444.com/
 /haber46\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /haber48\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
@@ -528,13 +532,13 @@
 /kralmuzik\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /krdnews\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /kriterdergi\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
-/kronos\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /kronos34.news/
 /kronos35.news/
 /kronos36.news/
 /kronos37.news/
 /kronos38.news/
 /kronos39.news/
+/kronos\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /krttv\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /kulliyeliler.com.tr/
 /kurabaz.com/
@@ -777,6 +781,7 @@
 /sosyorol\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /sozcu.com.tr/
 /sportstv\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/sporx.com/
 /sporx\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /spothaber\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /sputniknews\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
@@ -845,6 +850,7 @@
 /trtspor\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /trtturk\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /trtworld\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
+/tum-haberler.com/
 /turizmajansi.com/
 /turizmguncel\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
 /turizmgunlugu\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
